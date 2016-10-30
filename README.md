@@ -1,8 +1,10 @@
 # HTML and CSS Stylecode 
 
-## TO DO
+Project to guide myself on my code style. Rules to write a consistent, organized and readable code. :metal:
+
+## To do
 - [x] :baby: Start project
-- [ ] :metal: Introduction
+- [ ] Introduction
 - [ ] HTML/Pug code
 - [ ] CSS/Sass code and architecture
 - [ ] Links to help
