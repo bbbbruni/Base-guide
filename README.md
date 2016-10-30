@@ -5,7 +5,8 @@ Project to guide myself on my code style. Rules to write a consistent, organized
 ## To do
 - [x] :baby: Start project
 - [ ] Introduction
-- [ ] HTML/Pug code
+- [ ] HTML code
+- [ ] Pug code
 - [ ] CSS/Sass code and architecture
 - [ ] Links to help
  
