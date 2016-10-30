@@ -1,8 +1,8 @@
 # HTML and CSS Stylecode 
 
 ## TO DO
-- [x] Start project
-- [ ] Introduction
+- [x] :baby: Start project
+- [ ] :metal: Introduction
 - [ ] HTML/Pug code
 - [ ] CSS/Sass code and architecture
 - [ ] Links to help
