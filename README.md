@@ -1,4 +1,4 @@
-# HTML and CSS Stylecode 
+# HTML and CSS code style 
 
 Project to guide myself on my code style. Rules to write a consistent, organized and readable code. :metal:
 
