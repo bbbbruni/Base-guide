@@ -1,6 +1,6 @@
 # HTML and CSS Stylecode 
 
-### TO DO
+## TO DO
 [x] Start project
 [ ] Introduction
 [ ] HTML/Pug code
